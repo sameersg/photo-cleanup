@@ -1,0 +1,11 @@
+osxphotos
+numpy
+pillow
+pillow-heif
+torch
+torchvision
+transformers
+pyiqa
+setuptools<81  # pyiqa (laion_aes) braucht pkg_resources
+pyobjc-framework-Vision
+scikit-learn
